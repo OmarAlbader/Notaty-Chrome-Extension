@@ -4,10 +4,11 @@
 Notaty is a To-Do List extension for browsers
 ## Installation
 
-1. Go to Chrome Settings using three dots on the top right corner.
-2. Now, Enable developer mode.
-3. Click on Load Unpacked and select your Unzip folder. Note: You need to select the folder in which the manifest file exists.
-4. The extension will be installed now and ready to use.
+1. Download Notaty-Chrome-Extension and unzip the file.
+2. Go to Chrome Settings using three dots on the top right corner.
+3. Now, Enable developer mode.
+4. Click on Load Unpacked and select your Unzip folder. Note: You need to select the folder in which the manifest file exists.
+5. The extension will be installed now and ready to use.
 ## Documentation
 
 
